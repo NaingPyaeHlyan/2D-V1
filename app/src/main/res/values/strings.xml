@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2D</string>
+    <string name="live_data">--</string>
+    <string name="date">Date</string>
+    <string name="set">SET</string>
+    <string name="value">VALUE</string>
+    <string name="data">----</string>
+</resources>
